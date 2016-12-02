@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 {
   "directory": "vendor/bower_dl"
+=======
+{
+  "directory": "vendor/bower_dl"
+>>>>>>> 39d4038d9257f906e7202e5a887916c2023bd02c
 }

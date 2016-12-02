@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "private": true,
   "scripts": {
@@ -34,3 +35,41 @@
   "author": "mahbubur rahman",
   "license": "FREE"
 }
+=======
+{
+  "private": true,
+  "scripts": {
+    "prod": "gulp --production",
+    "dev": "gulp watch"
+  },
+  "devDependencies": {
+    "bootstrap-sass": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-livereload": "^3.8.1",
+    "gulp-notify": "^2.2.0",
+    "gulp-ruby-sass": "^2.0.3",
+    "gulp-uglify": "^1.4.1",
+    "laravel-elixir": "^5.0.0",
+    "browser-sync": "~2.17.3"
+  },
+  "dependencies": {
+    "bootstrap-sass": "^3.*",
+    "gulp-rename": "^1.2.2",
+    "hideshowpassword": "^2.0.10",
+    "laravel-elixir": "*"
+  },
+  "name": "gecomm",
+  "description": "[![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework) [![Total Downloads](https://poser.pugx.org/laravel/framework/d/total.svg)](https://packagist.org/packages/laravel/framework) [![Latest Stable Version](https://poser.pugx.org/laravel/framework/v/stable.svg)](https://packagist.org/packages/laravel/framework) [![Latest Unstable Version](https://poser.pugx.org/laravel/framework/v/unstable.svg)](https://packagist.org/packages/laravel/framework) [![License](https://poser.pugx.org/laravel/framework/license.svg)](https://packagist.org/packages/laravel/framework)",
+  "version": "0.0.0",
+  "main": "gulpfile.js",
+  "directories": {
+    "test": "tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@bitbucket.org:rumaneee/first-laravel.git"
+  },
+  "author": "mahbubur rahman",
+  "license": "FREE"
+}
+>>>>>>> 39d4038d9257f906e7202e5a887916c2023bd02c

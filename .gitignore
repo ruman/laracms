@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ### OSX BOOGERS ###
 .DS_Store
 *._DS_Store
@@ -47,3 +48,54 @@ node_modules/*
 bower_components/*
 npm-debug.log
 
+=======
+### OSX BOOGERS ###
+.DS_Store
+*._DS_Store
+._.DS_Store
+*._
+._*
+._.*
+
+### WINDOWS BOOGERS ###
+Thumbs.db
+
+### Sass ###
+/.sass-cache/*
+.sass-cache
+
+
+/vendor
+/node_modules
+/public/assets/css
+/public/assets/js
+/public/assets/fonts
+/resources/assets/adminlte
+/public/assets/vendor
+/public/vendor
+Homestead.yaml
+Homestead.json
+.env
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+.idea/
+/ref
+uploads
+node_modules/*
+/bower_components
+bower_components/*
+npm-debug.log
+
+>>>>>>> 39d4038d9257f906e7202e5a887916c2023bd02c
